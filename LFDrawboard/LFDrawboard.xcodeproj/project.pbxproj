@@ -15,11 +15,11 @@
 		85F1A72C2271976E00735847 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 85F1A72B2271976E00735847 /* main.m */; };
 		85F1A7362271976E00735847 /* LFDrawboardTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 85F1A7352271976E00735847 /* LFDrawboardTests.m */; };
 		85F1A7412271976E00735847 /* LFDrawboardUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 85F1A7402271976E00735847 /* LFDrawboardUITests.m */; };
-		85F1A7572271978200735847 /* DrawEditTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 85F1A7502271978200735847 /* DrawEditTextView.m */; };
-		85F1A7582271978200735847 /* DrawTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 85F1A7512271978200735847 /* DrawTextView.m */; };
-		85F1A7592271978200735847 /* DrawViewDemo.m in Sources */ = {isa = PBXBuildFile; fileRef = 85F1A7532271978200735847 /* DrawViewDemo.m */; };
-		85F1A75A2271978200735847 /* DrawImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 85F1A7552271978200735847 /* DrawImageView.m */; };
 		85F1A75C227197B100735847 /* 9978.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 85F1A75B227197B100735847 /* 9978.jpg */; };
+		85F1A76622719F3100735847 /* DrawEditTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 85F1A75F22719F3000735847 /* DrawEditTextView.m */; };
+		85F1A76722719F3100735847 /* DrawTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = 85F1A76022719F3000735847 /* DrawTextView.m */; };
+		85F1A76822719F3100735847 /* DrawViewDemo.m in Sources */ = {isa = PBXBuildFile; fileRef = 85F1A76222719F3000735847 /* DrawViewDemo.m */; };
+		85F1A76922719F3100735847 /* DrawImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 85F1A76422719F3000735847 /* DrawImageView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,15 +56,15 @@
 		85F1A73C2271976E00735847 /* LFDrawboardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LFDrawboardUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		85F1A7402271976E00735847 /* LFDrawboardUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LFDrawboardUITests.m; sourceTree = "<group>"; };
 		85F1A7422271976E00735847 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		85F1A74F2271978200735847 /* DrawViewDemo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawViewDemo.h; sourceTree = "<group>"; };
-		85F1A7502271978200735847 /* DrawEditTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawEditTextView.m; sourceTree = "<group>"; };
-		85F1A7512271978200735847 /* DrawTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawTextView.m; sourceTree = "<group>"; };
-		85F1A7522271978200735847 /* DrawImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawImageView.h; sourceTree = "<group>"; };
-		85F1A7532271978200735847 /* DrawViewDemo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawViewDemo.m; sourceTree = "<group>"; };
-		85F1A7542271978200735847 /* DrawEditTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawEditTextView.h; sourceTree = "<group>"; };
-		85F1A7552271978200735847 /* DrawImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawImageView.m; sourceTree = "<group>"; };
-		85F1A7562271978200735847 /* DrawTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawTextView.h; sourceTree = "<group>"; };
 		85F1A75B227197B100735847 /* 9978.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 9978.jpg; sourceTree = "<group>"; };
+		85F1A75E22719F3000735847 /* DrawViewDemo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawViewDemo.h; sourceTree = "<group>"; };
+		85F1A75F22719F3000735847 /* DrawEditTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawEditTextView.m; sourceTree = "<group>"; };
+		85F1A76022719F3000735847 /* DrawTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawTextView.m; sourceTree = "<group>"; };
+		85F1A76122719F3000735847 /* DrawImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawImageView.h; sourceTree = "<group>"; };
+		85F1A76222719F3000735847 /* DrawViewDemo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawViewDemo.m; sourceTree = "<group>"; };
+		85F1A76322719F3000735847 /* DrawEditTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawEditTextView.h; sourceTree = "<group>"; };
+		85F1A76422719F3000735847 /* DrawImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawImageView.m; sourceTree = "<group>"; };
+		85F1A76522719F3000735847 /* DrawTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawTextView.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,7 +115,7 @@
 		85F1A71B2271976D00735847 /* LFDrawboard */ = {
 			isa = PBXGroup;
 			children = (
-				85F1A74E2271978200735847 /* DrawView_SDK */,
+				85F1A75D22719F3000735847 /* DrawView_SDK */,
 				85F1A71C2271976D00735847 /* AppDelegate.h */,
 				85F1A71D2271976D00735847 /* AppDelegate.m */,
 				85F1A71F2271976D00735847 /* ViewController.h */,
@@ -148,20 +148,19 @@
 			path = LFDrawboardUITests;
 			sourceTree = "<group>";
 		};
-		85F1A74E2271978200735847 /* DrawView_SDK */ = {
+		85F1A75D22719F3000735847 /* DrawView_SDK */ = {
 			isa = PBXGroup;
 			children = (
-				85F1A74F2271978200735847 /* DrawViewDemo.h */,
-				85F1A7532271978200735847 /* DrawViewDemo.m */,
-				85F1A7542271978200735847 /* DrawEditTextView.h */,
-				85F1A7502271978200735847 /* DrawEditTextView.m */,
-				85F1A7562271978200735847 /* DrawTextView.h */,
-				85F1A7512271978200735847 /* DrawTextView.m */,
-				85F1A7522271978200735847 /* DrawImageView.h */,
-				85F1A7552271978200735847 /* DrawImageView.m */,
+				85F1A75E22719F3000735847 /* DrawViewDemo.h */,
+				85F1A75F22719F3000735847 /* DrawEditTextView.m */,
+				85F1A76022719F3000735847 /* DrawTextView.m */,
+				85F1A76122719F3000735847 /* DrawImageView.h */,
+				85F1A76222719F3000735847 /* DrawViewDemo.m */,
+				85F1A76322719F3000735847 /* DrawEditTextView.h */,
+				85F1A76422719F3000735847 /* DrawImageView.m */,
+				85F1A76522719F3000735847 /* DrawTextView.h */,
 			);
-			name = DrawView_SDK;
-			path = ../../../TotalTest/TotalTest/DrawView_SDK;
+			path = DrawView_SDK;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -296,12 +295,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				85F1A7212271976D00735847 /* ViewController.m in Sources */,
-				85F1A7572271978200735847 /* DrawEditTextView.m in Sources */,
+				85F1A76622719F3100735847 /* DrawEditTextView.m in Sources */,
 				85F1A72C2271976E00735847 /* main.m in Sources */,
-				85F1A7582271978200735847 /* DrawTextView.m in Sources */,
-				85F1A75A2271978200735847 /* DrawImageView.m in Sources */,
+				85F1A76722719F3100735847 /* DrawTextView.m in Sources */,
+				85F1A76922719F3100735847 /* DrawImageView.m in Sources */,
 				85F1A71E2271976D00735847 /* AppDelegate.m in Sources */,
-				85F1A7592271978200735847 /* DrawViewDemo.m in Sources */,
+				85F1A76822719F3100735847 /* DrawViewDemo.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
