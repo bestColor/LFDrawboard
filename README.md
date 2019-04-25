@@ -6,7 +6,9 @@
 
 
 使用方法简单： 
-          DrawViewDemo *dvVC = [[DrawViewDemo alloc] init];
+         
+
+           DrawViewDemo *dvVC = [[DrawViewDemo alloc] init];
     dvVC.editImage = [UIImage imageNamed:@"9978.jpg"];
     
     __weak typeof(ViewController *)weakSelf = self;
